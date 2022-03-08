@@ -1,1 +1,1 @@
-# electron65-lab.kojw.com
+# link.kojw.com
